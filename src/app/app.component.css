@@ -1,8 +1,8 @@
 
 .float{
-    float: bottom;
-    padding: top;
-    
+    float: left;
+    padding: 10px;
+    width: 50%;
 }
 
 
